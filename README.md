@@ -1,2 +1,2 @@
 # Mnist-Digital-Classification
-Mnist Digit Classification Using Logistic Regression Model.
+Mnist Digit Classification Using Neural Networks.
